@@ -2,3 +2,4 @@ temp*.txt
 result.txt
 build/
 res/pict/
+node_module/
